@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /media/VuePress_+_Netlify_CMS.png
-heroText: This is Roundfinance new website.1111121232132
+heroText: Dima Kakashka.1111121232132
 tagline: The CMS is coming...
 actionText: Get Started →
 actionLink: /guide/
